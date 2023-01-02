@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @damitkumar11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Amit
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently learning Data Science & Machine Learning
+- 💞️ I’m looking to collaborate on Data Science & Machine Learning projects
+- 📫 Reach me at damitkumar11@gmail.com
 
 <!---
 damitkumar11/damitkumar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
